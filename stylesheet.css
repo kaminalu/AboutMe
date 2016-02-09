@@ -109,9 +109,9 @@ body {
   text-size-adjust: 100%;
 }
 
-h2 {
+h1 {
   font-size: 1.95315em; /* 39.063 / 20px */
   line-height: 1.5999795202621em; /* 31.25px * 2 / 39.063 */
-  padding-top: 0.8333333333333334em; /* 31.25px / 39.063 */
+  padding-top: 0.7999897601310em; /* 31.25px / 39.063 */
   padding-bottom: 1.5999795202621em; /* 31.25px * 2 / 39.063 */
 }
