@@ -108,3 +108,10 @@ body {
   padding-right: 0.625em; /* half the 4:5 ratio */
   text-size-adjust: 100%;
 }
+
+h2 {
+  font-size: 1.95315em; /* 39.063 / 20px */
+  line-height: 1.5999795202621em; /* 31.25px * 2 / 39.063 */
+  padding-top: 0.8333333333333334em; /* 31.25px / 39.063 */
+  padding-bottom: 1.5999795202621em; /* 31.25px * 2 / 39.063 */
+}
