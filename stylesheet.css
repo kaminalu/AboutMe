@@ -67,4 +67,7 @@ h1 {
   line-height: 1.5999795202621em; /* 31.25px * 2 / 39.063 */
   padding-top: 0.7999897601310em; /* 31.25px / 39.063 */
   padding-bottom: 1.5999795202621em; /* 31.25px * 2 / 39.063 */
+  color: #ff0a68; /* www.hexcolortool.com */
+  font-family: sans-serif;
+  font-weight: bold;
 }
